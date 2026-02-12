@@ -1,5 +1,5 @@
 {
-    "version": "1.0.17",
+    "version": "1.0.18",
     "url": "https://github.com/keritingitenghe-ai/Ai_counter_update/releases/download/V1.0.1/AiCounter.exe",
     "notes": "- 🐞 **Critical Side Jump Fix:** Resolved a major bug that caused jumps to be missed or not counted correctly, ensuring accurate results.\n- ⚡ **Revamped Side Jump Logic:** Redesigned with a 'Virtual Barrier.' Tracking now focuses on foot displacement rather than body center, significantly improving accuracy for rapid jumps.\n- 📊 **New Side Jump Report:** The analytics report for the Side Jump test has been completely redesigned to provide clearer and more insightful data.\n- ⏱️ **Reaction Time Upgrade:** The test now includes the 'Average Time' metric, providing more comprehensive performance insights.\n- 🚀 **Performance Optimization:** Fixed FPS drop issues; processing is now stable at 30-40 FPS.\n- 🧠 **Enhanced Accuracy:** Integrated a Kalman Filter for smoother and  precise motion detection."
 }
